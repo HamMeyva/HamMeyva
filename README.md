@@ -19,8 +19,8 @@
 
 ### 📈 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HamMeyva&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="HamMeyva's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HamMeyva&theme=tokyonight&count_private=true" alt="HamMeyva's Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HamMeyva&show_icons=true&theme=tokyonight" alt="HamMeyva's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HamMeyva&theme=tokyonight" alt="HamMeyva's Streak" />
 </div>
 
 <!---
