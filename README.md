@@ -1,7 +1,11 @@
 # 🚀 Welcome to HamMeyva's Digital Universe 🌌
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/1999AZZAR/1999AZZAR/main/resources/img/coding.gif" width="400" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Hi,+I'm+HamMeyva!;Computer+Science+Enthusiast;Video-Game+Lover;Web+Platform+Developer" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="300" alt="Coding GIF" />
 </div>
 
 ### 👨‍💻 About Me
