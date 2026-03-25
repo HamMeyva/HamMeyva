@@ -1,7 +1,7 @@
 # 🚀 Welcome to HamMeyva's Digital Universe 🌌
 
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggCGvnkNC/giphy.gif" width="300" />
+  <img src="https://raw.githubusercontent.com/1999AZZAR/1999AZZAR/main/resources/img/coding.gif" width="400" />
 </div>
 
 ### 👨‍💻 About Me
@@ -17,11 +17,12 @@
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,python,git,docker,linux,mysql&perline=10" />
 </div>
 
-### 📈 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HamMeyva&show_icons=true&theme=tokyonight" alt="HamMeyva's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HamMeyva&theme=tokyonight" alt="HamMeyva's Streak" />
-</div>
+### 📈 Real GitHub Stats (Including Private Contributions)
+> Third-party stats don't do justice because most of my work is in private company repositories! Here is the real breakdown:
+
+* 🚀 **Total Commits (Last Year):** ~3,500+ (Averaging 5-40 commits/day, 4+ days/week!)
+* 🏢 **Current Focus:** Private Enterprise Web Platforms
+* 🔥 **Commit Streak:** Unstoppable (except for March! 😅)
 
 <!---
 HamMeyva/HamMeyva is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
